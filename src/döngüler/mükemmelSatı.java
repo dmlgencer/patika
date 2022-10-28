@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H11 {
+public class mükemmelSatı {
 
     public static void main(String[] args) {
         //mükemmel sayı

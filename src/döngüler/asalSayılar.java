@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H12 {
+public class asalSayılar {
 
     public static void main(String[] args) {
         int n;

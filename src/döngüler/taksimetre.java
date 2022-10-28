@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H4 {
+public class taksimetre {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

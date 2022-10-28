@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H2 {
+public class çiftVeDördünKatı {
 
     public static void main(String[] args) {
 

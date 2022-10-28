@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H5 {
+public class üslüSayı {
 
     public static void main(String[] args) {
 

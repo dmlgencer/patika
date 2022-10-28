@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H8 {
+public class üçgen {
 
     public static void main(String[] args) {
 //üçgen

@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H9 {
+public class atm {
     public static void main(String[] args) {
 
         //ATM

@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H6 {
+public class factorial {
 //factorial
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package döngüler;
 
 import java.util.Scanner;
 
-public class H3 {
+public class dörtVe5inKuvvetleri {
 
     public static void main(String[] args) {
 
