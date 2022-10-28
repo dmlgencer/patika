@@ -1,8 +1,8 @@
-package homeworks;
+package temel_kavramlar;
 
 import java.util.Scanner;
 
-public class H1 {
+public class NotOrtalaması {
 
     /*
         Not Ortalaması Hesaplayan Program
