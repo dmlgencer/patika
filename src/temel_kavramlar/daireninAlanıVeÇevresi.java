@@ -1,4 +1,4 @@
-package döngüler;
+package temel_kavramlar;
 
 import java.util.Scanner;
 
