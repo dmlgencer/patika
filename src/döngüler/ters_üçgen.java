@@ -6,11 +6,11 @@ public class ters_üçgen {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Basamak Sayısı Giriniz:");
-        int sayi=sc.nextInt();
+        int number=sc.nextInt();
 
-        for (int i=sayi; i >0 ; i--){
+        for (int i=number; i >0 ; i--){
 
-            for (int k=sayi-i; k>0; k--){
+            for (int k=number-i; k>0; k--){
                 System.out.print(" ");
             }
 

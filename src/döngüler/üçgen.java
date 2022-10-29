@@ -6,9 +6,9 @@ public class üçgen {
 
     public static void main(String[] args) {
 //üçgen
-        Scanner klavye = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Bir Sayı Giriniz :");
-        int n = klavye.nextInt();
+        int n = scanner.nextInt();
 
         for (int i = 0; i <= n ; i++) {
             for (int j = 0; j < (n - i); j++) {

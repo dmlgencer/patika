@@ -7,7 +7,7 @@ public class atm {
 
         //ATM
         Scanner input = new Scanner(System.in);
-        int i = 1500, toplam = 0, q = 3;
+        int i = 1500, sum = 0, q = 3;
 
         String username, password;
         int perlog = 3, balance = 1500, selection, price;

@@ -13,16 +13,16 @@ public class armstrong {
 
         int num = sc.nextInt();
 
-        int adet = 0,toplam=0;
+        int counter = 0,sum=0;
 
         while(num != 0)
         {
-            toplam +=  (num%10);
+            sum +=  (num%10);
             num /= 10;
-            ++adet;
+            ++counter;
         }
-        System.out.println("basamak sayısı : " + adet);
-        System.out.println("basamak toplamı: " + toplam);
+        System.out.println("basamak sayısı : " + counter);
+        System.out.println("basamak toplamı: " + sum);
     }
 }
 
