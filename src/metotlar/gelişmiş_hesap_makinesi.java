@@ -157,4 +157,5 @@ public class gelişmiş_hesap_makinesi {
                 break;
 
         }//and of the switch
+    }
 }
